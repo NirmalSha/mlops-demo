@@ -1,0 +1,4 @@
+[core]
+    remote = mlops-remote
+['remote "mlops-remote"']
+    url = s3://mlops-practice-nirmal
